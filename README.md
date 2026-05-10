@@ -48,6 +48,13 @@ Es va crear un compte gratuït a la plataforma Hugging Face:
 https://huggingface.co/
 
 Posteriorment es va generar un token d’accés des de la configuració del compte.
+Primer tindrem que fer clic a la foto del nostre conte per a que surtigue el desplegable
+<img width="330" height="202" alt="screenshot-2026-05-09_16-27-11" src="https://github.com/user-attachments/assets/95daf705-d692-4b20-adcd-bbd824ea2fe1" />
+Seguidament entrarem a "Acces Tokens"
+
+<img width="320" height="236" alt="screenshot-2026-05-09_16-27-43" src="https://github.com/user-attachments/assets/cb8f52f7-ffd8-4634-a2ae-9a6170266fe9" />
+I ja nomes tindrem que crearlo i ens surtira aixo:
+<img width="1164" height="672" alt="screenshot-2026-05-10_15-36-39" src="https://github.com/user-attachments/assets/2e7e34da-3903-42f9-9f5d-0e10be7e72d4" />
 
 Aquest token és necessari per autenticar les peticions API realitzades des del programa Python.
 
