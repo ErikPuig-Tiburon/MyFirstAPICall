@@ -1,6 +1,3 @@
-# MyFirstAPICall
-OPT
-
 # OPT - Your First API Call
 
 ## Informació del curs
